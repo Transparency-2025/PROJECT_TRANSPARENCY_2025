@@ -2,8 +2,8 @@ This is a more granular list of active enterprises in Ireland by industry and su
 
 The data is sourced from the Central Statistics Office (CSO) of Ireland's *Business in Ireland 2022* releases, providing a breakdown at the NACE **Section** (Industry) and **Division** (Sub-Industry) level.
 
-| NACE Code | Industry (Section) | Sub-Industry (Division/Group) | Total Active Enterprises (2022) |
-| :---: | :--- | :--- | :---: |
+| NACE Code | Industry (Section) | Sub-Industry (Division/Group) | Total Active Enterprises (2022) | Link to NACE |
+| :---: | :--- | :--- | :---: | :---: |
 | **Total** | **Structural Business Economy** | **(NACE B to S, excl. O and S94)** | **389,654** |
 | **F** | **Construction** | | **77,676** |
 | **M** | **Professional, Scientific & Technical Activities** | | **51,608** |
@@ -22,8 +22,8 @@ The data is sourced from the Central Statistics Office (CSO) of Ireland's *Busin
 | **Q** | **Human Health and Social Work Activities** | | **23,462** |
 | **N** | **Administrative and Support Service Activities** | | **20,711** |
 | **I** | **Accommodation and Food Service Activities** | | **20,213** |
-| **C** | **Manufacturing** | | **18,973** |
-| **L** | **Real Estate Activities** | | **18,295** |
+| **C** | **Manufacturing** | | **18,973** | 
+| **L** | **Real Estate Activities** | | **18,295** | [NACE L](taxonomy/4-IE-EU-NACE-L-real-estate-activites.md)
 | **S** | **Other Service Activities** | **(Excluding activities of membership organisations S94)** | **18,321** |
 | **J** | **Information and Communication** | | **19,331** |
 | | J62 | Computer programming, consultancy and related activities | *(Sub-division data not publicly detailed by CSO)* |
