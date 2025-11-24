@@ -1,1 +1,13 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2867
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
+\f0\fs24 \cf0 entity_id,entity_name,legal_name,sector,sub_sector,parent_organization,property_manager,address_line_1,city,state,zip_code,latitude,longitude,asset_status,verification_source,last_updated\
+ENT-0001,Mercy General,Mercy Health System Inc.,Healthcare,Hospital,Trinity Health,Internal,123 Wellness Way,Chicago,IL,60601,41.8781,-87.6298,Active,NPI Registry,2025-01-01\
+ENT-0002,Sunset Apartments,Sunset LLC,Residential,Apartment Complex,BlackRock Real Estate,Greystar,4400 Sunset Blvd,Los Angeles,CA,90027,34.0967,-118.2917,Renovation,County Tax Records,2025-01-02\
+ENT-0003,TechFlow HQ,TechFlow Systems,Technology,Corporate Office,TechFlow Global,CBRE,88 Innovation Dr,Austin,TX,78701,30.2672,-97.7431,Leased,Company Website,2025-01-05\
+ENT-0004,Grand Hotel,Grand Hotel Group,Hospitality,Hotel,Marriott International,Marriott,500 Ocean Dr,Miami,FL,33139,25.7617,-80.1918,Active,Chamber of Commerce,2025-01-10\
+ENT-0005,Target Store #122,Target Corporation,Retail,Big Box,Target Corporation,Internal,99 Retail Row,Minneapolis,MN,55403,44.9778,-93.2650,Active,Store Locator,2025-01-12}
