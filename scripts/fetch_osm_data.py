@@ -13,7 +13,7 @@ SCHEMA_HEADERS = [
     "asset_status", "verification_source", "last_updated"
 ]
 
-def fetch_osm_data(area_name="New York"):
+def fetch_osm_data(area_name="Ireland"):
     """
     Queries Overpass API for hospitals and universities in a specific area.
     """
@@ -97,7 +97,7 @@ def main():
     
     # Fetch Data (Example: San Francisco)
     # In production, loop through a list of target cities
-    raw_data = fetch_osm_data("San Francisco")
+    raw_data = fetch_osm_data("Ireland")
     
     processed_rows = []
     for i, element in enumerate(raw_data):
